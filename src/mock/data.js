@@ -19,7 +19,7 @@ export const heroData = {
 export const aboutData = {
   img: 'profile.png',
   paragraphOne:
-    'My passion is to create software solutions that help people do things efficiently, with fewer errors, and a great experience. Embrace innovation and challenges as a way for me to go always one step forward.',
+    'My passion is to create software solutions that help people do things efficiently, with fewer errors, and a great experience. I embrace innovation and challenges as a way to go always one step forward.',
   paragraphTwo:
     "I'm always looking to learn new things and also share what I learned with my students an colleges.",
   paragraphThree:
